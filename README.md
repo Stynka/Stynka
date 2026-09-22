@@ -22,7 +22,7 @@ I build tools and systems that solve real problems at the intersection of creati
 - Agentic AI for Product Managers (Maven) — Capstone: Creative Transition Engine
 - AI for Creative Leaders (Lighthouse AI Academy)
 - Google UX Design Professional Certificate
-- Associate Product Manager, Ministry of Defence (1 year, regulated government environment)
+- Associate Product Manager, Ministry of Defence (6 months, regulated government environment)
 
 ## Tech I use
 
@@ -39,7 +39,7 @@ Looking to work with: creative companies, AI tools for creators, product teams b
 
 ## Get in touch
 
-[LinkedIn](https://linkedin.com/in/justyna-janiszewska) | just.janiszewska@gmail.com | +44 7979 773426
+[LinkedIn](https://linkedin.com/in/justyna-janiszewska) | just.janiszewska@gmail.com 
 
 ---
 
